@@ -1,6 +1,6 @@
-## Selamat Datang di Framework Javascript (FWJS)
+## Selamat Datang di Framework Javascript (FW-JS)
 
-You can use the [editor on GitHub](https://github.com/FJS-SI/fjs-si.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Repositori ini berisikan materi belajar Javascript dan latihan penggunaan javascrpit.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
