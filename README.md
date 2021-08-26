@@ -2,9 +2,7 @@
 
 Repositori ini berisikan materi belajar Javascript dan latihan penggunaan javascrpit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Materi yang dibahas
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
