@@ -6,5 +6,7 @@ Repositori ini berisikan materi belajar Javascript dan latihan penggunaan javasc
 1. Pengenalan
 2. persiapan
 3. bahan
-4. 
+4. Tes
+
+
 ### Latihan 
